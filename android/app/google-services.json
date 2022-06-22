@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793442032814",
+    "project_id": "photo-sharing-clone-app-9eacf",
+    "storage_bucket": "photo-sharing-clone-app-9eacf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793442032814:android:931c020c83a833e64d613f",
+        "android_client_info": {
+          "package_name": "com.example.pinterest_clone_codingcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793442032814-u35dcjpb8l846cjkqg3cngi47g66m54d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVN96LazlGKyAWmXtMXuIde0sECblgI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793442032814-u35dcjpb8l846cjkqg3cngi47g66m54d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
